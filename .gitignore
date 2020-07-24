@@ -1,0 +1,6 @@
+# virtual environment
+venv/*
+
+# skip pycharm/IDE folder
+.idea*
+
